@@ -1,7 +1,7 @@
 {
   "name": "personal-node-boilerplate",
   "version": "1.0.0",
-  "description": "this is a template to start a node js project. Add or remove any packages that is required.",
+  "description": "This is a template to start a node js project. Add or remove any packages that is required.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
